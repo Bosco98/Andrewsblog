@@ -1,0 +1,117 @@
+{
+    "dir": "ltr",
+    "lang": "en",
+    "name": "Andrews blog",
+    "scope": "/Andrewsblog/",
+    "display": "standalone",
+    "start_url": "https://bosco98.github.io/Andrewsblog/",
+    "short_name": "Andrewsblog",
+    "theme_color": "transparent",
+    "description": "",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "/images/Andrewsblog/assets/images/logo2.png",
+            "type": "image/png",
+            "sizes": "270x278"
+        },
+        {
+            "src": "/images/9064c1cc-c9e6-3f44-73b0-1aa4868b9917.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/0512f47d-b9a9-71e0-64e6-d4e5b1398bea.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/windows10/SplashScreen.scale-200.png.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/585dc446-67ad-8657-46e2-3b1a77c9a26e.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/945a9e2d-1bf4-a76b-c4e5-0ac4ef706f2f.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/10662b74-2f23-2ffc-5292-42f4c721a0f8.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/7cdd5be1-4217-671f-f96a-0580926a939a.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/717e795c-94cf-e494-781b-9a1a553e36e7.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/d06dda69-cb66-5a02-94aa-a87b4338e5b8.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/f7f14cb1-449c-9829-aa88-e2aa4f29cf6a.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/2ac2888f-fd8e-dc9b-44d0-68ba4244d4b6.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/8797f301-f502-590f-645b-d536a947266f.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/764a1b6c-19f0-59ce-ed99-dd187ccc1692.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/b790b812-7a73-be79-f7d7-19ecd7fe9694.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/ios/ios-appicon-1024-1024.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/569ab934-694c-e003-200d-5a6e0d166321.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/81d86ffb-4247-3b97-13a8-bf3ee6947b23.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/da6a409f-f465-7280-287d-0da6e418d07f.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "/images/e7b9de1b-3a27-87d6-074e-091edb0b11a1.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ]
+}
